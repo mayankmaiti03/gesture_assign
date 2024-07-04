@@ -1,5 +1,7 @@
 # GestureFlow: A Novel Hand Gesture Control System for Interactive Gaming
 
+[Research Paper Link](#[research-paper-link](https://utfs.io/f/250ddf99-3f84-41cd-a30c-3c8996d12b44-dw7ncv.pdf))
+
 ## Overview
 
 Welcome to the GestureFlow project! This project aims to revolutionize interactive gaming by introducing a novel hand gesture control system. By leveraging advanced computer vision techniques, we have developed a system that allows players to control games using natural hand movements, providing a more immersive and engaging gaming experience.
