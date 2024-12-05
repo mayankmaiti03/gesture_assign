@@ -1,6 +1,6 @@
 # GestureFlow: A Novel Hand Gesture Control System for Interactive Gaming
 
-[Research Paper Link](https://utfs.io/f/250ddf99-3f84-41cd-a30c-3c8996d12b44-dw7ncv.pdf)
+[Research Paper Link](https://ieeexplore.ieee.org/abstract/document/10724912)
 
 ## Overview
 
